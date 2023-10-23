@@ -8,7 +8,7 @@ Redefining FiveM Server Protection
 
 ![wallpaper](https://i.imgur.com/mTyciRD.png)
 
-# Requirments.
+# Requirments
 - yarn (included in default fx servers)
 
 # Installation
