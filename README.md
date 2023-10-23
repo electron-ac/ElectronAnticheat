@@ -1,1 +1,1 @@
-# ElectronAnticheat
+<centered># ElectronAnticheat</centered>
