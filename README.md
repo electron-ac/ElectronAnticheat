@@ -14,9 +14,3 @@ Redefining FiveM Server Protection
 # Installation
 To install Electron Anticheat go to [electron-ac.com](https://electronac.uk.to/), and create an account.
 After this process is complete you will be able to download te anticheat and drag it into your resources folder. Add start ElectronAC to you server.cfg, and you are all done!
-
-# Free Trial
-head over to https://discord.gg/electronac if you are interested in a free, no credit card required, trial.
-
-
-
