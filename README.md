@@ -8,6 +8,8 @@ Redefining FiveM Server Protection
 
 ![wallpaper](https://i.imgur.com/mTyciRD.png)
 
+**The most affordable and effective fiveM anticheat.**
+
 # Requirments
 - yarn (included in default fx servers)
 
