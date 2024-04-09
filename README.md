@@ -1,5 +1,7 @@
 # Electron Anticheat
 
+Electron Anticheat is the most affordable, easy to use and effective FiveM anticheat.
+
 Redefining FiveM Server Protection
 
 [![Yarn](https://img.shields.io/badge/Yarn-blue?style=for-the-badge)](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bsystem%5D/%5Bbuilders%5D)
