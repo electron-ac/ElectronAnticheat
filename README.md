@@ -14,7 +14,7 @@ Redefining FiveM Server Protection
 **The most affordable and effective fiveM anticheat.**
 
 # Requirments
-- yarn (included in default fx servers)
+None!
 
 # Installation
 To install Electron Anticheat go to [electron-services.com](https://electron-services.com/), and create an account.
