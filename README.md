@@ -1,7 +1,5 @@
 # Electron Anticheat
 
-
-### Most Advanced FiveM Anticheat
 [Electron Anticheat](https://electron-services.com/) is the best and most affordable, easy to use and effective FiveM anticheat.
 
 Redefining FiveM Server Protection
