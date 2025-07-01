@@ -9,7 +9,7 @@ Redefining FiveM Server Protection
 
 ![wallpaper](https://i.imgur.com/mTyciRD.png)
 
-**The most affordable and effective fiveM anticheat.**
+The **most Advanced** FiveM Anticheat
 
 # Requirments
 None!
