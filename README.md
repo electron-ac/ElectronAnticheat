@@ -16,4 +16,4 @@ None!
 
 # Installation
 To install Electron Anticheat go to [electron-services.com](https://electron-services.com/), and create an account.
-After this process is complete you will be able to download te anticheat and drag it into your resources folder. Add start ElectronAC to you server.cfg, and you are all done!
+After this process is complete you will be able to download the anticheat and drag it into your resources folder. Add start ElectronAC to you server.cfg, and you are all done!
